@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.a109b531.chunk.css",
+    "main.css": "./static/css/main.9e738520.chunk.css",
     "main.js": "./static/js/main.8a6900f3.chunk.js",
     "main.js.map": "./static/js/main.8a6900f3.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.2609201e.js",
@@ -8,9 +8,9 @@
     "static/js/2.da1e9f34.chunk.js": "./static/js/2.da1e9f34.chunk.js",
     "static/js/2.da1e9f34.chunk.js.map": "./static/js/2.da1e9f34.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.8a4c108c6ae730c81d677d3223dd8f98.js": "./precache-manifest.8a4c108c6ae730c81d677d3223dd8f98.js",
+    "precache-manifest.1a562a6911d7c1818f49ff031219bcd3.js": "./precache-manifest.1a562a6911d7c1818f49ff031219bcd3.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.a109b531.chunk.css.map": "./static/css/main.a109b531.chunk.css.map",
+    "static/css/main.9e738520.chunk.css.map": "./static/css/main.9e738520.chunk.css.map",
     "static/js/2.da1e9f34.chunk.js.LICENSE.txt": "./static/js/2.da1e9f34.chunk.js.LICENSE.txt",
     "static/media/146-1466338_poro-smirk-emoji-league-of-legends-discord.png": "./static/media/146-1466338_poro-smirk-emoji-league-of-legends-discord.78decb90.png",
     "static/media/main.css": "./static/media/second.3a68b2bd.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.2609201e.js",
     "static/js/2.da1e9f34.chunk.js",
-    "static/css/main.a109b531.chunk.css",
+    "static/css/main.9e738520.chunk.css",
     "static/js/main.8a6900f3.chunk.js"
   ]
 }
