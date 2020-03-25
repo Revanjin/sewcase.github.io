@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.2273e80d.chunk.css",
-    "main.js": "./static/js/main.75c38623.chunk.js",
-    "main.js.map": "./static/js/main.75c38623.chunk.js.map",
+    "main.css": "./static/css/main.e2ba3b5d.chunk.css",
+    "main.js": "./static/js/main.79e9d875.chunk.js",
+    "main.js.map": "./static/js/main.79e9d875.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.2609201e.js",
     "runtime-main.js.map": "./static/js/runtime-main.2609201e.js.map",
-    "static/js/2.6d86a2c7.chunk.js": "./static/js/2.6d86a2c7.chunk.js",
-    "static/js/2.6d86a2c7.chunk.js.map": "./static/js/2.6d86a2c7.chunk.js.map",
+    "static/js/2.7a9a5a16.chunk.js": "./static/js/2.7a9a5a16.chunk.js",
+    "static/js/2.7a9a5a16.chunk.js.map": "./static/js/2.7a9a5a16.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.acaa1099c336da75499348dc4282670d.js": "./precache-manifest.acaa1099c336da75499348dc4282670d.js",
+    "precache-manifest.9b7f963192fedc9424ba37e89f280130.js": "./precache-manifest.9b7f963192fedc9424ba37e89f280130.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.2273e80d.chunk.css.map": "./static/css/main.2273e80d.chunk.css.map",
-    "static/js/2.6d86a2c7.chunk.js.LICENSE.txt": "./static/js/2.6d86a2c7.chunk.js.LICENSE.txt",
+    "static/css/main.e2ba3b5d.chunk.css.map": "./static/css/main.e2ba3b5d.chunk.css.map",
+    "static/js/2.7a9a5a16.chunk.js.LICENSE.txt": "./static/js/2.7a9a5a16.chunk.js.LICENSE.txt",
     "static/media/001-clothes.png": "./static/media/001-clothes.98e2a5f3.png",
     "static/media/002-button.png": "./static/media/002-button.7906d0af.png",
     "static/media/003-fashion.png": "./static/media/003-fashion.fabe7f65.png",
@@ -57,15 +57,17 @@
     "static/media/049-design.png": "./static/media/049-design.3c45c3d6.png",
     "static/media/146-1466338_poro-smirk-emoji-league-of-legends-discord.png": "./static/media/146-1466338_poro-smirk-emoji-league-of-legends-discord.78decb90.png",
     "static/media/main.css": "./static/media/second.3a68b2bd.jpg",
+    "static/media/email.png": "./static/media/email.d145b30c.png",
     "static/media/girl.png": "./static/media/girl.e791596f.png",
+    "static/media/instagram.png": "./static/media/instagram.5c570427.png",
     "static/media/masubi.png": "./static/media/masubi.35212535.png",
     "static/media/poro-essence.png": "./static/media/poro-essence.cabcabd8.png",
     "static/media/soldier.png": "./static/media/soldier.f9aa2b10.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2609201e.js",
-    "static/js/2.6d86a2c7.chunk.js",
-    "static/css/main.2273e80d.chunk.css",
-    "static/js/main.75c38623.chunk.js"
+    "static/js/2.7a9a5a16.chunk.js",
+    "static/css/main.e2ba3b5d.chunk.css",
+    "static/js/main.79e9d875.chunk.js"
   ]
 }
