@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.53bb7f3e.chunk.css",
-    "main.js": "./static/js/main.3c138460.chunk.js",
-    "main.js.map": "./static/js/main.3c138460.chunk.js.map",
+    "main.css": "./static/css/main.144fabff.chunk.css",
+    "main.js": "./static/js/main.e8879546.chunk.js",
+    "main.js.map": "./static/js/main.e8879546.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.2609201e.js",
     "runtime-main.js.map": "./static/js/runtime-main.2609201e.js.map",
-    "static/js/2.97bf0ea7.chunk.js": "./static/js/2.97bf0ea7.chunk.js",
-    "static/js/2.97bf0ea7.chunk.js.map": "./static/js/2.97bf0ea7.chunk.js.map",
+    "static/js/2.ccf8e800.chunk.js": "./static/js/2.ccf8e800.chunk.js",
+    "static/js/2.ccf8e800.chunk.js.map": "./static/js/2.ccf8e800.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.e705814f3daed7112db6eb6a1ad74fa1.js": "./precache-manifest.e705814f3daed7112db6eb6a1ad74fa1.js",
+    "precache-manifest.4066bc5561396d658c905747b7641876.js": "./precache-manifest.4066bc5561396d658c905747b7641876.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.53bb7f3e.chunk.css.map": "./static/css/main.53bb7f3e.chunk.css.map",
-    "static/js/2.97bf0ea7.chunk.js.LICENSE.txt": "./static/js/2.97bf0ea7.chunk.js.LICENSE.txt",
+    "static/css/main.144fabff.chunk.css.map": "./static/css/main.144fabff.chunk.css.map",
+    "static/js/2.ccf8e800.chunk.js.LICENSE.txt": "./static/js/2.ccf8e800.chunk.js.LICENSE.txt",
     "static/media/001-clothes.png": "./static/media/001-clothes.98e2a5f3.png",
     "static/media/009-brooch.png": "./static/media/009-brooch.2eb223e7.png",
     "static/media/019-dressmaker.png": "./static/media/019-dressmaker.33bf8414.png",
@@ -33,12 +33,14 @@
     "static/media/pattern.png": "./static/media/pattern.cf2736b5.png",
     "static/media/poro-essence.png": "./static/media/poro-essence.cabcabd8.png",
     "static/media/second.jpg": "./static/media/second.3a68b2bd.jpg",
-    "static/media/soldier.png": "./static/media/soldier.f9aa2b10.png"
+    "static/media/soldier.png": "./static/media/soldier.f9aa2b10.png",
+    "static/media/texturedbg.jpg": "./static/media/texturedbg.bccda7cf.jpg",
+    "static/media/texturedbg_light.jpg": "./static/media/texturedbg_light.1f1fcba4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2609201e.js",
-    "static/js/2.97bf0ea7.chunk.js",
-    "static/css/main.53bb7f3e.chunk.css",
-    "static/js/main.3c138460.chunk.js"
+    "static/js/2.ccf8e800.chunk.js",
+    "static/css/main.144fabff.chunk.css",
+    "static/js/main.e8879546.chunk.js"
   ]
 }
