@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "581985fa6f6aaf2dcff71436076716bd",
+    "revision": "1711de15fb39310408ab0fafd43fe2f2",
     "url": "./index.html"
   },
   {
-    "revision": "ca2eeee88f2fc00a1aff",
-    "url": "./static/css/main.5a4628dc.chunk.css"
+    "revision": "e45fa4f976ac1331f6e9",
+    "url": "./static/css/main.a8fe2d9d.chunk.css"
   },
   {
-    "revision": "0ad50f74e0174b73802e",
-    "url": "./static/js/2.ccf8e800.chunk.js"
+    "revision": "ada6c44820e6b1382788",
+    "url": "./static/js/2.2a2aa8f4.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "./static/js/2.ccf8e800.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.2a2aa8f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca2eeee88f2fc00a1aff",
-    "url": "./static/js/main.e8879546.chunk.js"
+    "revision": "e45fa4f976ac1331f6e9",
+    "url": "./static/js/main.e969995f.chunk.js"
   },
   {
     "revision": "973ce5bfc1f931f651f7",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a56f899a7c97bd0f9ded8a2a9df37961",
     "url": "./static/media/gamescom-team-edited.a56f899a.jpg"
+  },
+  {
+    "revision": "f27c1ffaa7555c68732ef5598d8a7cf5",
+    "url": "./static/media/gcteam2019.f27c1ffa.png"
   },
   {
     "revision": "e791596fae6557fbf08c07aab8d6de82",

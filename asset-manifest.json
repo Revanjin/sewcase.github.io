@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.5a4628dc.chunk.css",
-    "main.js": "./static/js/main.e8879546.chunk.js",
-    "main.js.map": "./static/js/main.e8879546.chunk.js.map",
+    "main.css": "./static/css/main.a8fe2d9d.chunk.css",
+    "main.js": "./static/js/main.e969995f.chunk.js",
+    "main.js.map": "./static/js/main.e969995f.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.2609201e.js",
     "runtime-main.js.map": "./static/js/runtime-main.2609201e.js.map",
-    "static/js/2.ccf8e800.chunk.js": "./static/js/2.ccf8e800.chunk.js",
-    "static/js/2.ccf8e800.chunk.js.map": "./static/js/2.ccf8e800.chunk.js.map",
+    "static/js/2.2a2aa8f4.chunk.js": "./static/js/2.2a2aa8f4.chunk.js",
+    "static/js/2.2a2aa8f4.chunk.js.map": "./static/js/2.2a2aa8f4.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.60fcc848c76bc8c569889f76fefc6a3e.js": "./precache-manifest.60fcc848c76bc8c569889f76fefc6a3e.js",
+    "precache-manifest.9c066af3f5511fd81bd7022032f5f880.js": "./precache-manifest.9c066af3f5511fd81bd7022032f5f880.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.5a4628dc.chunk.css.map": "./static/css/main.5a4628dc.chunk.css.map",
-    "static/js/2.ccf8e800.chunk.js.LICENSE.txt": "./static/js/2.ccf8e800.chunk.js.LICENSE.txt",
+    "static/css/main.a8fe2d9d.chunk.css.map": "./static/css/main.a8fe2d9d.chunk.css.map",
+    "static/js/2.2a2aa8f4.chunk.js.LICENSE.txt": "./static/js/2.2a2aa8f4.chunk.js.LICENSE.txt",
     "static/media/001-clothes.png": "./static/media/001-clothes.98e2a5f3.png",
     "static/media/009-brooch.png": "./static/media/009-brooch.2eb223e7.png",
     "static/media/019-dressmaker.png": "./static/media/019-dressmaker.33bf8414.png",
@@ -26,6 +26,7 @@
     "static/media/email.png": "./static/media/email.d145b30c.png",
     "static/media/first.jpg": "./static/media/first.b6105e5a.jpg",
     "static/media/gamescom-team-edited.jpg": "./static/media/gamescom-team-edited.a56f899a.jpg",
+    "static/media/gcteam2019.png": "./static/media/gcteam2019.f27c1ffa.png",
     "static/media/girl.png": "./static/media/girl.e791596f.png",
     "static/media/instagram.png": "./static/media/instagram.5c570427.png",
     "static/media/masubi.png": "./static/media/masubi.35212535.png",
@@ -39,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2609201e.js",
-    "static/js/2.ccf8e800.chunk.js",
-    "static/css/main.5a4628dc.chunk.css",
-    "static/js/main.e8879546.chunk.js"
+    "static/js/2.2a2aa8f4.chunk.js",
+    "static/css/main.a8fe2d9d.chunk.css",
+    "static/js/main.e969995f.chunk.js"
   ]
 }
